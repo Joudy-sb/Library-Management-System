@@ -16,7 +16,7 @@ A **Library Management System** developed in Java, leveraging core Object-Orient
   - Type-safe and reusable structures for managing resources like electronic devices.
 
 - **Interfaces:**
-  - `Rules` interface ensures consistent rule definitions across resources.
+  - Rules interface ensures consistent rule definitions across resources.
 
 - **Thread Synchronization:**
   - Locks ensure safe concurrent access to shared resources, preventing race conditions.
