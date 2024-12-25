@@ -34,7 +34,7 @@ A **Library Management System** developed in Java, leveraging core Object-Orient
   - Real-world scenarios, including borrowing books, handling waiting lists, late penalties, and unauthorized actions.
 ---
 
-## Additional information 
+## Additional information: UML Diagram 
 ![UML Diagram](UML_Design.png)
 
 
