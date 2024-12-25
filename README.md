@@ -35,6 +35,7 @@ A **Library Management System** developed in Java, leveraging core Object-Orient
 ---
 
 ## Additional information 
+![UML Diagram](UML_Design.png)
 
 
 
